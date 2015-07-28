@@ -1,0 +1,11 @@
+prefix:
+    stringProp1: propValue1
+    stringProp2: propValue2
+    intProp1: 100
+    listProp:
+        - listValue1
+        - listValue2
+        - listValue3
+    mapProp:
+        key1: mapValue1
+        key2: mapValue2
